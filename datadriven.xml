@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name ="gurru">
+    <listeners>
+        <listener class-name="Utilities.ExtentReportManager"/>
+    </listeners>
+    <test name="datadriventest">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+<!--            <class name="testCases.T_001_RegistrationTest"/>-->
+<!--            <class name="testCases.T_002_LoginTest"/>-->
+            <class name="testCases.T_003_LoginDataDrivenTest"/>
+        </classes>
+    </test>
+</suite>

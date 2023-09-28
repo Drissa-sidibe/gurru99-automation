@@ -1,0 +1,208 @@
+03:18:13.371 [main] INFO  testCases.T_001_RegistrationTest - Opening the URL
+03:18:29.455 [main] INFO  testCases.T_001_RegistrationTest - Creating an account for Registration
+03:20:10.427 [main] INFO  testCases.T_001_RegistrationTest - Account created for Registration
+03:20:10.433 [main] INFO  testCases.T_001_RegistrationTest - Tearing down. Test finished
+03:29:30.397 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+03:29:43.319 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+03:30:29.130 [main] INFO  testCases.T_001_RegistrationTest - Opening the URL
+03:30:34.175 [main] INFO  testCases.T_001_RegistrationTest - Creating an account for Registration
+03:32:12.744 [main] INFO  testCases.T_001_RegistrationTest - Account created for Registration
+03:32:12.747 [main] INFO  testCases.T_001_RegistrationTest - Tearing down. Test finished
+03:32:29.839 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+03:32:37.270 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+03:59:33.405 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+03:59:45.574 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+04:00:04.987 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+04:00:18.162 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+04:45:12.075 [main] INFO  testCases.T_001_RegistrationTest - Opening the URL
+04:45:24.883 [main] INFO  testCases.T_001_RegistrationTest - Creating an account for Registration
+04:47:04.638 [main] INFO  testCases.T_001_RegistrationTest - Account created for Registration
+04:47:04.669 [main] INFO  testCases.T_001_RegistrationTest - Tearing down. Test finished
+04:47:25.144 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+04:47:38.169 [main] INFO  testCases.T_002_LoginTest - Starting to test Login
+04:47:40.219 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+04:53:27.839 [main] INFO  testCases.T_001_RegistrationTest - Opening the URL
+04:53:32.668 [main] INFO  testCases.T_001_RegistrationTest - Creating an account for Registration
+04:53:50.170 [main] INFO  testCases.T_001_RegistrationTest - Tearing down. Test finished
+04:54:14.120 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+04:54:24.407 [main] INFO  testCases.T_002_LoginTest - Starting to test Login
+04:54:26.608 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+07:00:12.785 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+07:00:17.859 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+07:00:22.892 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+07:00:23.064 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+07:24:13.388 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+07:24:44.645 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+07:24:56.579 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+07:24:56.593 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+07:25:08.520 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+07:25:21.412 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+07:25:21.413 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+07:25:32.649 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+07:36:55.544 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+07:37:00.943 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+07:37:13.537 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+07:37:13.552 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+07:37:25.185 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+07:37:36.648 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+07:37:36.650 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+07:37:48.388 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+07:59:22.008 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+07:59:27.414 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+07:59:42.235 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+07:59:42.254 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+07:59:53.706 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+07:59:53.710 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:00:05.258 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+08:00:05.261 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:00:17.190 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+08:08:30.654 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+08:08:37.072 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:08:48.891 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+08:08:48.907 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:09:00.041 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+08:09:00.043 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:09:11.797 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+08:09:11.800 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:09:23.403 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+08:12:28.237 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+08:12:40.667 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:12:51.748 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+08:12:51.763 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:13:03.114 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+08:13:03.115 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:13:14.783 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+08:13:14.786 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:13:26.449 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+08:15:23.400 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+08:15:29.051 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:21:44.350 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+08:21:44.373 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:21:44.408 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:21:44.420 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+08:21:44.436 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+08:31:06.589 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+08:31:10.603 [main] INFO  testCases.T_002_LoginTest - Starting to test Login
+08:31:22.774 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+00:00:13.647 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+00:00:21.897 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+00:00:34.658 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+00:00:46.377 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+00:00:58.002 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+00:01:09.780 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+00:05:57.649 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+00:06:27.538 [main] INFO  testCases.T_002_LoginTest - Starting to test Login
+00:06:40.092 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+00:09:06.088 [main] INFO  testCases.T_001_RegistrationTest - Opening the URL
+00:09:16.790 [main] INFO  testCases.T_001_RegistrationTest - Creating an account for Registration
+00:10:55.395 [main] INFO  testCases.T_001_RegistrationTest - Account created for Registration
+00:10:55.418 [main] INFO  testCases.T_001_RegistrationTest - Tearing down. Test finished
+00:22:15.171 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+00:22:20.390 [main] INFO  testCases.T_002_LoginTest - Starting to test Login
+00:22:33.396 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+00:23:34.487 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+00:23:50.132 [main] INFO  testCases.T_002_LoginTest - Starting to test Login
+00:24:03.729 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+00:36:32.083 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+00:36:35.810 [main] INFO  testCases.T_002_LoginTest - Starting to test Login
+00:36:48.371 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+00:41:16.052 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+00:41:26.874 [main] INFO  testCases.T_002_LoginTest - Starting to test Login
+00:41:30.548 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+00:49:14.142 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+00:49:20.178 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+00:49:32.048 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+00:49:32.084 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+00:49:43.509 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+00:49:43.512 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+00:49:56.129 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+00:49:56.133 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+00:49:56.703 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+00:58:45.190 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+00:58:52.494 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+00:59:05.255 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+00:59:05.287 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+00:59:16.588 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+00:59:16.592 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+00:59:28.519 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+00:59:28.523 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+00:59:29.147 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+01:01:04.361 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+01:01:10.720 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:03:30.449 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:03:30.475 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:04:09.503 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+01:04:16.001 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:06:36.299 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:06:36.319 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:06:46.638 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+01:07:05.109 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:08:19.010 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:08:19.031 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:14:52.636 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+01:15:21.095 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:15:33.004 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:15:33.026 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:15:44.500 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:15:44.503 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:15:56.087 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:15:56.089 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:16:01.235 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:16:01.237 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:16:01.714 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+01:18:52.006 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+01:19:02.171 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:19:02.715 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:19:13.861 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:19:13.864 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:19:26.014 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:19:26.020 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:19:38.034 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:19:38.037 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:19:41.304 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:19:41.307 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+01:20:35.332 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+01:20:41.005 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:20:53.433 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:20:53.450 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:21:04.693 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:21:04.695 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:21:17.242 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:21:17.244 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:21:28.455 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:21:28.458 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:21:31.483 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:21:31.487 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+01:26:57.871 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+01:27:06.743 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:27:17.681 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:27:17.694 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:27:28.829 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:27:28.831 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:27:42.160 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:27:42.163 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:27:45.139 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:27:45.142 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+01:27:47.053 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+01:27:47.057 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+02:06:01.319 [main] INFO  testCases.T_003_LoginDataDrivenTest - Opening the URL
+02:06:16.190 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+02:06:27.266 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+02:06:27.284 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+02:06:38.462 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+02:06:38.463 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+02:06:52.217 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+02:06:52.219 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+02:06:58.288 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+02:06:58.290 [main] INFO  testCases.T_003_LoginDataDrivenTest - Starting to test Login
+02:07:01.410 [main] INFO  testCases.T_003_LoginDataDrivenTest - Login Test Finished
+02:07:01.414 [main] INFO  testCases.T_003_LoginDataDrivenTest - Tearing down. Test finished
+02:16:38.438 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+02:16:52.448 [main] INFO  testCases.T_002_LoginTest - Starting to test Login
+02:16:54.552 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+02:22:02.008 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+02:22:05.936 [main] INFO  testCases.T_002_LoginTest - Starting to test Login
+02:22:08.066 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished
+03:24:29.169 [main] INFO  testCases.T_002_LoginTest - Opening the URL
+03:25:03.685 [main] INFO  testCases.T_002_LoginTest - Starting to test Login
+03:25:06.395 [main] INFO  testCases.T_002_LoginTest - Tearing down. Test finished

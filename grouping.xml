@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="gurru">
+    <listeners>
+        <listener class-name="Utilities.ExtentReportManager"/>
+    </listeners>
+    <test name="sanity group">
+        <parameter name="browser" value="chrome"/>
+        <groups>
+            <run>
+                <include name="Sanity"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="testCases.T_001_RegistrationTest"/>
+            <class name="testCases.T_002_LoginTest"/>
+        </classes>
+    </test>
+</suite>
